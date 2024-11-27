@@ -62,13 +62,3 @@ function createChildren(numberofChildren: number) {
       );
     });
 }
-
-/*export const Primary: Story = {
-  args: {
-    variant: "primary",
-    size: "md",
-    children: "Test", //Two ways to render children
-  },
-  // render: (args) => <Button {...args}>Test</Button>,
-  render: (args) => <Button {...args}/>
-};*/
